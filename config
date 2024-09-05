@@ -1,4 +1,8 @@
 yaml file
 ok
 now
+<<<<<<< HEAD
 new
+=======
+here
+>>>>>>> 871437e (done)
